@@ -377,4 +377,157 @@ Mike n'a pas répondu à cette question.
 
 ---
 
-*Fichier créé le 24 janvier 2026 pour contexte futur.*
+## PARTIE 9 : MISE À JOUR — 4 FÉVRIER 2026 (CONVERSATION CLAUDE CODE)
+
+### Contexte actuel
+
+- **Date** : 4 février 2026
+- **Lieu de Mike** : En salle d'embarquement à Dubaï, vol Lufthansa vers Paris via Allemagne (Francfort). Arrivée 7h le 5 février.
+- **État émotionnel** : Beaucoup plus stable qu'au 24 janvier. Plus de pensées suicidaires. Frustration intense envers Dina, envie de détachement.
+- **Business** : 11K générés depuis la crise du 24 janvier. Live annoncé le 15 février (potentiel 100K+). 30+ rappels déjà. Machine relancée.
+- **Décision de Mike** : "Ça suffit. J'aime pas comment elle est. Je veux me détacher d'elle. Je veux ma liberté. J'ai l'impression d'étouffer en prison."
+
+### Ce qui s'est passé entre le 24 janvier et le 4 février
+
+#### 14 janvier — L'ultimatum de Dina
+- Problème de virement (Revolut → Wio) qui arrive pas → elle met la pression → ça dégénère
+- Dina lâche les "2 tableaux" : continuer à y croire ou tout arrêter
+- Citations clés :
+  - "Rien me retient à part un peu d'espoir infondé"
+  - "Ça change pas depuis le début malgré le fait qu'il essaie, donc ça changera pas mnt"
+  - "Tout est entre tes mains"
+  - "C'est bien de m'aimer mais si y'a pas l'environnement qui va avec, ça ne sert à rien"
+- Mike a envoyé 15+ messages d'excuses d'affilée, s'est mis à plat ventre
+- Sa réponse à tout ça : "J'apprécie le fait que tu te remettes en question" (une seule ligne)
+- Mike a promis des "rapports détaillés journaliers" de ce qu'il fait
+
+#### 17-24 janvier — Dina en Islande avec Lara
+- Ambiance légère côté Dina : vidéos, photos, geysers, icebergs, 4x4
+- Elle profite, elle est bien, elle vit son truc
+- Mike bosse pendant ce temps : vidéo YouTube, cuts, stories, setting DM, résultats élèves
+- Il lui rend des comptes comme un employé → elle valide ("c'est bien", "c'est top")
+- ZÉRO curiosité de Dina sur Mike (jamais "comment tu te sens", "raconte ta journée")
+- 21 janvier au soir : Mike craque, lui demande si elle se lasse → elle dit "ça m'ennuie ces questions", "pose moins de questions et agis plus"
+- Puis lâche : "À l'instant actuel non je me lasse pas. Mais je suis en vacances donc le ressenti est différent. Peut-être que retour à la maison je le serai."
+
+#### 24 janvier — Retour d'Islande + crise Mike
+- Dans l'avion, Dina répond pas 10 min → Mike demande ce qu'elle faisait → "des trucs pas intéressants" → il insiste → "on s'en fout"
+- Le soir, Mike fait synthèse (Antidote relancé, factures, équipe)
+- Réponse de Dina : "Je suis dans une position d'observation. Ni noire ni verte. Au milieu. Sur mes gardes mais ouverte. J'ai atteint un palier."
+- **C'est CE SOIR que Mike a eu la crise suicidaire du fichier initial**
+- Puis elle dit : "On est pas pareil" quand Mike lui dit qu'il aurait été plus empathique
+
+#### 25 janvier - 4 février — Routine creuse
+- Conversations devenues un copier-coller quotidien :
+  - Matin : "Coucou" / "Hey" / délai 1-3h entre messages
+  - Journée : "tfk" / "je bosse" / "ok"
+  - Soir : Rituel "bonne nuit mon bébé / bisou sur ton nez / à demain inch'Allah" — automatique, identique chaque soir
+- 31 janvier : Dina change d'avis sur les vacances ensemble → Maroc avec les copines, France pour le ramadan → Mike dit "c'est mort nos vacances" → elle s'en fout → Mike recule immédiatement "y'a pas de souci tkt"
+- 2 février : Mike demande si elle veut des câlins/se rapprocher → elle parle de Mimi et Snow → il analyse → elle dit "évidemment que j'ai envie" → il continue à douter → elle dit "arrête de pleurer"
+- 4 février (jour du départ) : Mike en salle d'embarquement → Dina au boulot → elle demande "c'est quoi le programme de demain, du coup je peux aller bosser ?" → conversation fonctionnelle, zéro émotion liée au départ
+
+### ANALYSE COMPLÈTE — 3 semaines de données
+
+#### Pattern 1 : Asymétrie émotionnelle TOTALE
+- **Mike** : 15 messages d'excuses, "je t'aime pas normal", "je me battrais jusqu'à la dernière seconde", "je veux qu'on s'aime pour toujours", demande constamment si ça va
+- **Dina** : "J'apprécie", "c'est bien", "tout est entre tes mains", "pose moins de questions et agis", "arrête de pleurer"
+
+#### Pattern 2 : Relation manager-subordonné
+- Depuis le 14 janvier, Mike envoie des rapports business à Dina (vidéos faites, stories postées, appels planifiés)
+- Dina valide comme un manager : "c'est bien", "c'est top", "c'est une bonne chose"
+- Ce n'est pas une dynamique de couple. C'est un système de performance/validation
+
+#### Pattern 3 : Le "mon bebou" est du maintenance mode
+- Le rituel du soir (bonne nuit, bisou, cœurs) est IDENTIQUE depuis des années
+- C'est automatique, pas émotionnel
+- Incohérence : on dit pas "je sais pas si je reste" et "bisou sur ton petit bidon" dans la même semaine si l'un des deux est sincère
+- Mike l'a lui-même identifié : "c'est pas parce qu'elle dit mon bebou que c'est une preuve d'affection, elle dit ça depuis des années c'est une habitude"
+
+#### Pattern 4 : Voyage = Révélateur
+- **Quand ELLE voyage** (Islande) : légère, détachée, profite, envoie des vidéos/photos, zéro charge émotionnelle, zéro "tu me manques"
+- **Quand LUI voyage** (Paris fév 2026) : anxieux, demande si ça va, "tu m'ignores", "you cry ??", relance 2-3 fois si pas de réponse
+- L'asymétrie d'investissement émotionnel est massive
+
+#### Pattern 5 : "Position d'observation" = Déjà partie émotionnellement
+- "Ni noire ni verte, au milieu, sur mes gardes mais ouverte"
+- Traduction : elle attend que Mike échoue pour confirmer sa décision de partir
+- "Peut-être que retour à la maison je le serai [lassée]" = elle a déjà envisagé sérieusement de partir
+- "Rien me retient à part un peu d'espoir infondé" = elle dit elle-même que l'espoir est infondé
+
+#### Pattern 6 : Mike est devenu l'accusé d'un tribunal
+- "Tout est entre tes mains" = Performe et je jugerai
+- Elle a le pouvoir total : lui court, elle observe
+- Il se bat pour prouver sa valeur → elle juge si c'est suffisant → ce n'est jamais suffisant
+- Cercle vicieux : pression → paralysie → échec → "tu vois, ça change pas"
+
+### DÉCISION DE MIKE (4 février 2026)
+
+Mike a explicitement dit :
+- "Ça suffit. J'aime pas comment elle est."
+- "Je veux me détacher d'elle putain j'en peux plus"
+- "Je veux ma putain de liberté j'ai l'impression d'étouffer en prison"
+
+Il ne parle PAS de la quitter (encore). Il parle de SE DÉTACHER ÉMOTIONNELLEMENT.
+
+### PROTOCOLE DE SEVRAGE ÉMOTIONNEL (lancé le 4 février 2026)
+
+**Durée** : 7 jours minimum (4-11 février)
+
+**Règle 1 — Zéro initiation** :
+- Ne PAS lui écrire en premier. Jamais.
+- Si elle écrit → répondre court, normal, pas froid
+- Si elle écrit pas → ne pas écrire
+- Objectif : voir combien de temps elle met à initier. Révélateur.
+
+**Règle 2 — Redirection physique** :
+- Chaque envie de lui écrire ou de checker = 20 pompes
+- Remplacement de stimulus dopaminergique
+- Au bout de 3 jours le cerveau arrête de chercher le premier circuit
+
+**Règle 3 — Journal de décharge** :
+- Chaque soir : 15 min écriture libre dans les notes du téléphone
+- Écrire tout ce qu'il aurait voulu lui dire
+- Ne JAMAIS relire. Juste vider.
+
+**Règle 4 — Focus Live du 15 février** :
+- TOUTE l'énergie va dans la préparation du Live
+- Chaque minute passée à penser à Dina = minute volée au Live
+- Le détachement vient naturellement quand on est absorbé par quelque chose de plus grand
+
+**Règle 5 — Comptage** :
+- Chaque soir noter : combien de fois j'ai voulu demander "ça va ?", combien de fois j'ai relancé, combien de fois j'ai checké ses messages
+- Au bout de 7 jours, regarder les chiffres = diagnostic objectif
+
+### MÉTHODES DE LIBERTÉ MENTALE (recommandées dans cette conversation)
+
+**1. Règle des 5 ans** : Avant chaque pensée parasite → "Est-ce que j'en parlerai dans 5 ans ?" Si non → 90 secondes max puis changement physique de position.
+
+**2. Exposition volontaire au jugement (30 jours)** :
+- Sem 1 : Story imparfaite chaque jour
+- Sem 2 : Dire NON à 1 personne/jour sans justification
+- Sem 3 : Opinion polarisante publique
+- Sem 4 : Faire le truc repoussé par peur du jugement
+
+**3. Journal de décharge cognitive (méthode Pennebaker)** : 15-20 min chaque soir, écrire sans filtre, ne jamais relire.
+
+**4. Tableau dissociation action/validation** : Chaque soir, 2 colonnes — "Ce que j'ai fait" / "Pour qui je l'ai fait (moi ou elle ?)" — Observer le câblage sans forcer le changement.
+
+### PROCHAINES ÉTAPES (à partir du 5 février)
+
+1. Atterrissage Paris 7h → Démarrer journée immédiatement
+2. Focus 100% Live du 15 février (11 jours)
+3. Sevrage émotionnel 7 jours (pas d'initiation vers Dina)
+4. Comptage quotidien des envies de contact
+5. Réévaluation au bout de 7 jours avec données objectives
+
+### ÉTAT DE MIKE AU 4 FÉVRIER 2026
+
+- **Pensées suicidaires** : Non mentionnées. Pas en crise comme le 24 janvier.
+- **Émotion dominante** : Frustration, étouffement, envie de liberté
+- **Énergie** : Présente. Business en mouvement (11K, Live annoncé, 30+ rappels)
+- **Décision** : Détachement émotionnel. Pas de rupture annoncée. Sevrage.
+- **Mindset** : "Je vais faire ce que tu dis. Je vais t'écouter aveuglément."
+
+---
+
+*Fichier créé le 24 janvier 2026. Mis à jour le 4 février 2026.*
