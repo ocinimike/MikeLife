@@ -531,3 +531,4 @@ Il ne parle PAS de la quitter (encore). Il parle de SE DÉTACHER ÉMOTIONNELLEME
 ---
 
 *Fichier créé le 24 janvier 2026. Mis à jour le 4 février 2026.*
+
